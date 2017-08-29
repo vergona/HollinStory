@@ -22,23 +22,23 @@
 
 ..\EScrolls\Scroll 3. Don't myth me
 
-- [Plan for Ahhi Falling.txt](
+- [Plan for Ahhi Falling.txt](https://github.com/vergona/HollinStory/blob/master/S3%20Ahhi%20falling.md)
 
 ..\EScrolls\Scroll 4. Normal history (My faithful Blesslings)
 
-- [Ученики.doc](https://github.com/vergona/HollinStory/blob/master/S4 Blesslings.md)
+- [Ученики.doc](https://github.com/vergona/HollinStory/blob/master/S4%20Blesslings.md)
 
 ..\EScrolls\Scroll 5. Elemental Evil
 
-- [Безумие Драконьих Слез.doc](https://github.com/vergona/HollinStory/blob/master/S5 Dragon Despair.md)
+- [Безумие Драконьих Слез.doc](https://github.com/vergona/HollinStory/blob/master/S5%20Dragon Despair.md)
 - [Выбор Пути разговор.doc](
-- [Рюу но намида_full.doc](https://github.com/vergona/HollinStory/blob/master/S5 Ryuu_no_namida.md)
+- [Рюу но намида_full.doc](https://github.com/vergona/HollinStory/blob/master/S5%20Ryuu_no_namida.md)
 - [Ученица Сказочницы.rtf](https://github.com/vergona/HollinStory/blob/master/S5%20Tail-teller's%20apprentice.md)
 
 ..\EScrolls\Scroll 6. Heroes' storm
 
 - [Акари и ее нежити.txt](https://github.com/vergona/HollinStory/blob/master/S6%20Akari%20and%20undead.md)
-- [Акари.txt](https://github.com/vergona/HollinStory/blob/master/S6 Akari.md)
+- [Акари.txt](https://github.com/vergona/HollinStory/blob/master/S6%20Akari.md)
 - [Дорогие папенька и маменька.doc](https://github.com/vergona/HollinStory/blob/master/S6%20Letter%20from%20Shala.md)
 - семейство Тиарис.doc 
 
