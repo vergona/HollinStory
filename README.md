@@ -1,7 +1,8 @@
 # HollinStory
+[edit me!](https://github.com/vergona/HollinStory/edit/master/README.md)
 ..\EScrolls
 
-- [Къатта и неверие.rtf]()
+- [Къатта и неверие.rtf](
 
 ..\EScrolls\other authors
 
