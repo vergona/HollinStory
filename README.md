@@ -27,7 +27,7 @@
 
 ..\EScrolls\Scroll 4. Normal history
 
-- [Ученики.doc](https://vergona.github.io/HollinStory/Scroll%204.%20Normal%20history/S4_Blesslings(Galibar).txt
+- [Ученики.doc](https://vergona.github.io/HollinStory/Scroll%204.%20Normal%20history/S4_Blesslings(Galibar).txt)
 
 ..\EScrolls\Scroll 5. Elemental Evil
 
