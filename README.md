@@ -41,7 +41,8 @@
 - [Акари и ее нежити.txt](https://vergona.github.io/HollinStory/Scroll%206.%20Hero%20storm/S6_Akari_n_undead.txt)
 - [Акари.txt](https://vergona.github.io/HollinStory/Scroll%206.%20Hero%20storm/S6_Akari.txt)
 - [Дорогие папенька и маменька.doc](https://vergona.github.io/HollinStory/Scroll%206.%20Hero%20storm/S6_Letter_Shala.txt)
-- семейство Тиарис.doc 
+- семейство Тиарис.doc
+- [Мэри, Леди Мэри](https://vergona.github.io/HollinStory/Scroll%206.%20Hero%20storm/S6_Mary.txt)
 
 ..\EScrolls\Scroll 7. Nevermoon
 
